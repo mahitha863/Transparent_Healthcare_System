@@ -1,0 +1,99 @@
+talaska
+talaskaman
+talaskaana
+talaskacoll
+talaskacust
+
+Alaska Regional Hospital - 
+alaskhosp
+alaskhospemp 
+Fairbanks Memorial Hospital - 
+fairhosp
+fairhospemp
+Norton Sound Regional Hospital - 
+nortonhosp 
+nortonhospemp
+Samuel Simmonds Memorial Hospital
+samuelhosp
+samuelhospemp
+
+South Peninsula Hospital -
+
+galaska
+galaskaemp2
+***********************************************************
+
+
+talabama
+talabamaman
+talabamaana
+talabamacoll
+talabamacust
+
+Wiregrass Medical Center - 
+wiregrasshosp
+wiregrasshospemp
+Monroe County Hospital - 
+monroehosp
+monroehospemp
+Lakeland Community Hospital - 
+lakelandhosp
+lakelandhospemp
+
+Central Alabama VA Healthcare System - Southeast Health
+
+galabama
+galabamaemp
+
+***********************************************************
+tarizona
+tarizonaman
+tarizonaana
+tarizonacoll
+tarizonacust
+
+Kingman Regional Medical Center
+Northern Cochise Community Hospital
+Mountain Vista Medical Center
+
+garizona
+***********************************************************
+
+tcalifornia
+tcaliforniaman
+tcaliforniaana
+tcaliforniacoll
+tcaliforniacust
+
+
+UCSF Medical Center
+The Department of State Hospitals - Patton
+
+
+gcalifornia
+************************************************************
+
+
+tmass
+tmassman
+tmassana
+tmasscoll
+tmasscust
+
+Boston Medical Center
+Massachusetts General Hospital
+UMass Memorial Health Care
+Athol Memorial Hospital
+
+gmass
+
+*************************************************************
+For signup check customer: in Alaska mahitha/m@hitha
+For signup check customer: in Alabama gayathri/g@yathri
+
+
+
+
+
+
+        
